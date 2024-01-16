@@ -11,7 +11,7 @@ A bike-sharing system is a service in which bikes are made available for shared 
 > Removing null valued columns, single uniques columns, unnecessary columns then manipulation of data such as conversion of data types, removing outliers, deriving new variables and many more.
 * Analysing data.
 > Analysing the categorical and numerical variables
-*Model
+* Model
 > Fitting the model and then Evaluating it
 
 ## Technologies Used
